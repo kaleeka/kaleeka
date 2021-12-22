@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaleeka
-- 👀 I’m interested in Data Analysis, Data Visialization.
+- 👀 I’m interested in Data Analysis, Data Visualization.
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on data analysis and visualization projects in any domain like IT or Health or Logistics or Tourism and Hospitality or any.
 - 📫 How to reach me at kneupane@naver.com
